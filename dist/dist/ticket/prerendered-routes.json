@@ -1,0 +1,30 @@
+{
+  "routes": [
+    "/",
+    "/ajouter",
+    "/ajouteruser",
+    "/CHP",
+    "/CHT4",
+    "/CHT7",
+    "/CHXT5",
+    "/CHXT7",
+    "/login",
+    "/modifier",
+    "/MT5A3",
+    "/MXT5",
+    "/MXT6",
+    "/Polo",
+    "/Polo1",
+    "/side",
+    "/sideus",
+    "/ST7",
+    "/stat",
+    "/T4",
+    "/XT2",
+    "/XT3",
+    "/XT4",
+    "/XT5",
+    "/XT51",
+    "/XT7"
+  ]
+}
